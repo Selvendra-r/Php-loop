@@ -6,7 +6,8 @@
 //     $i++;
 // }
 
-for ($i=20 ;$i<=40 ;$i++){
+echo "this is new commit ";
+for ($i=20 ;$i<=60 ;$i++){
     echo $i;
     echo "\n";
 }
